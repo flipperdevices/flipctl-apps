@@ -5,50 +5,19 @@
 # editing this.
 
 [[app]]
-name = "JavaScript Runtime"
-path = "Runtimes/js-runtime-aarch64.fap.AppImage"
-url = "https://github.com/flipperdevices/flipctl-apps/releases/download/apps/js-runtime-aarch64.fap.AppImage"
-provides = "js"
-size = 12843528
-sha256 = "5aa6564026c446ffee68aa712fea8b404a2470bc774ec12736d1c71515680c85"
-
-[[app]]
-name = "Python Runtime"
-path = "Runtimes/python-runtime-aarch64.fap.AppImage"
-url = "https://github.com/flipperdevices/flipctl-apps/releases/download/apps/python-runtime-aarch64.fap.AppImage"
-provides = "py"
-size = 31230472
-sha256 = "e702af1bbde3c44a33cde2b3d920a5249f6f620b043b54e5a982e28230f41721"
-
-[[app]]
-name = "Internet radio"
-path = "radio-aarch64.fap.AppImage"
-url = "https://github.com/flipperdevices/flipctl-apps/releases/download/apps/radio-aarch64.fap.AppImage"
-size = 6842888
-sha256 = "4de0a751e88987b760beb2758e64ba97ac43ee46e6d4ca0d9c49d7044532d189"
-
-[[app]]
-name = "System Monitor"
-path = "sysmon-aarch64.fap.AppImage"
-url = "https://github.com/flipperdevices/flipctl-apps/releases/download/apps/sysmon-aarch64.fap.AppImage"
-size = 6830600
-sha256 = "c34f4f1e8dd251de46fa1851c7609891240c7c59ff0835aaca7fc0d440d0a5d3"
-
-[[app]]
-name = "Ping"
-path = "ping.fap.py"
-url = "https://github.com/flipperdevices/flipctl-apps/releases/download/apps/ping.fap.py"
-runtime = "py"
-size = 8389
-sha256 = "c7bb956a0e73fde8b74653d8587c13d3920c3d3b61201de96d2ef6fc47a1d1e8"
-
-[[app]]
 name = "Breathing LED"
 path = "Test Tools/breathing-led.fap.py"
 url = "https://github.com/flipperdevices/flipctl-apps/releases/download/apps/breathing-led.fap.py"
 runtime = "py"
 size = 14198
 sha256 = "6939196843fc740cefa101dae757fd1cebd7842efa33c8ef6bbf32d2b1232328"
+
+[[app]]
+name = "Doom"
+path = "Games/doom-aarch64.fap.AppImage"
+url = "https://github.com/flipperdevices/flipctl-apps/releases/download/apps/doom-aarch64.fap.AppImage"
+size = 29563400
+sha256 = "17ba41e2552ee65c20b914dd01945da7c05899fafe121fc5572dd1e013e085af"
 
 [[app]]
 name = "ETH LED"
@@ -59,12 +28,57 @@ size = 15552
 sha256 = "36282d169348cf79d166af0a9181b335c6ff1c567f998cb5f1c534b5cf560e52"
 
 [[app]]
+name = "Internet radio"
+path = "radio-aarch64.fap.AppImage"
+url = "https://github.com/flipperdevices/flipctl-apps/releases/download/apps/radio-aarch64.fap.AppImage"
+size = 6842888
+sha256 = "4de0a751e88987b760beb2758e64ba97ac43ee46e6d4ca0d9c49d7044532d189"
+
+[[app]]
+name = "JavaScript Runtime"
+path = "Runtimes/js-runtime-aarch64.fap.AppImage"
+url = "https://github.com/flipperdevices/flipctl-apps/releases/download/apps/js-runtime-aarch64.fap.AppImage"
+provides = "js"
+size = 12843528
+sha256 = "5aa6564026c446ffee68aa712fea8b404a2470bc774ec12736d1c71515680c85"
+
+[[app]]
 name = "Network LEDs"
 path = "Test Tools/network-leds.fap.py"
 url = "https://github.com/flipperdevices/flipctl-apps/releases/download/apps/network-leds.fap.py"
 runtime = "py"
 size = 7154
 sha256 = "9f0507015d918c806ca0cba36a891640a4e8cdf529e5539e5db84aaf078d618d"
+
+[[app]]
+name = "Ping"
+path = "ping.fap.py"
+url = "https://github.com/flipperdevices/flipctl-apps/releases/download/apps/ping.fap.py"
+runtime = "py"
+size = 8389
+sha256 = "c7bb956a0e73fde8b74653d8587c13d3920c3d3b61201de96d2ef6fc47a1d1e8"
+
+[[app]]
+name = "Python Runtime"
+path = "Runtimes/python-runtime-aarch64.fap.AppImage"
+url = "https://github.com/flipperdevices/flipctl-apps/releases/download/apps/python-runtime-aarch64.fap.AppImage"
+provides = "py"
+size = 31230472
+sha256 = "e702af1bbde3c44a33cde2b3d920a5249f6f620b043b54e5a982e28230f41721"
+
+[[app]]
+name = "System Monitor"
+path = "sysmon-aarch64.fap.AppImage"
+url = "https://github.com/flipperdevices/flipctl-apps/releases/download/apps/sysmon-aarch64.fap.AppImage"
+size = 6830600
+sha256 = "c34f4f1e8dd251de46fa1851c7609891240c7c59ff0835aaca7fc0d440d0a5d3"
+
+[[app]]
+name = "Tone Lab"
+path = "Test Tools/doom-lab-aarch64.fap.AppImage"
+url = "https://github.com/flipperdevices/flipctl-apps/releases/download/apps/doom-lab-aarch64.fap.AppImage"
+size = 6793736
+sha256 = "8a8a6bb140807e148a5ced194a172134a750ef77fba8102cc3f49ccaa6a95ae6"
 
 [[app]]
 name = "Uptime"
