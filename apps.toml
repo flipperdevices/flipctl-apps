@@ -77,8 +77,8 @@ sha256 = "c34f4f1e8dd251de46fa1851c7609891240c7c59ff0835aaca7fc0d440d0a5d3"
 name = "Tone Lab"
 path = "Test Tools/doom-lab-aarch64.fap.AppImage"
 url = "https://github.com/flipperdevices/flipctl-apps/releases/download/apps/doom-lab-aarch64.fap.AppImage"
-size = 6793736
-sha256 = "8a8a6bb140807e148a5ced194a172134a750ef77fba8102cc3f49ccaa6a95ae6"
+size = 6756872
+sha256 = "04635c3d8bd20787043a90b6a6ec3b908996ab94f2746698dee668f7a8b939a2"
 
 [[app]]
 name = "Uptime"
