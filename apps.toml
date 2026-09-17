@@ -87,3 +87,10 @@ url = "https://github.com/flipperdevices/flipctl-apps/releases/download/apps/upt
 runtime = "js"
 size = 4990
 sha256 = "12d1405fa73c34e9130704125f55640776297c2e060108e2c46ef5216d79edff"
+
+[[app]]
+name = "Video Player"
+path = "Media/video-player-aarch64.fap.AppImage"
+url = "https://github.com/flipperdevices/flipctl-apps/releases/download/apps/video-player-aarch64.fap.AppImage"
+size = 956936
+sha256 = "a1fe2dcd2b446624a0dcf91a1d5c4e2665c3d4c9129584ea685ceccc08ae1577"
