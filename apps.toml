@@ -74,6 +74,14 @@ size = 6830600
 sha256 = "c34f4f1e8dd251de46fa1851c7609891240c7c59ff0835aaca7fc0d440d0a5d3"
 
 [[app]]
+name = "Thermals"
+path = "Test Tools/thermals.fap.py"
+url = "https://github.com/flipperdevices/flipctl-apps/releases/download/apps/thermals.fap.py"
+runtime = "py"
+size = 6532
+sha256 = "6ad12e68ab88bc48c7522a28e3c9ea297cdd6123007b8215a56dddfed77fa45d"
+
+[[app]]
 name = "Tone Lab"
 path = "Test Tools/doom-lab-aarch64.fap.AppImage"
 url = "https://github.com/flipperdevices/flipctl-apps/releases/download/apps/doom-lab-aarch64.fap.AppImage"
