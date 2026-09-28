@@ -86,8 +86,8 @@ name = "Thermals"
 path = "Test Tools/thermals.fap.py"
 url = "https://github.com/flipperdevices/flipctl-apps/releases/download/apps/thermals.fap.py"
 runtime = "py"
-size = 6532
-sha256 = "6ad12e68ab88bc48c7522a28e3c9ea297cdd6123007b8215a56dddfed77fa45d"
+size = 6620
+sha256 = "934991d0c0955fe5bab75fb6adaf0a2933d1b0f534a49ba013e58c6cfa33d5d1"
 
 [[app]]
 name = "Tone Lab"
