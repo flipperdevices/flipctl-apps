@@ -28,6 +28,14 @@ size = 15552
 sha256 = "36282d169348cf79d166af0a9181b335c6ff1c567f998cb5f1c534b5cf560e52"
 
 [[app]]
+name = "Ethernet Tester"
+path = "Test Tools/ethernet-tester.fap.py"
+url = "https://github.com/flipperdevices/flipctl-apps/releases/download/apps/ethernet-tester.fap.py"
+runtime = "py"
+size = 26755
+sha256 = "af0cb7413d0f31ab1323a5554b6345ddefefc2cab2f37549d7680ba09ddde197"
+
+[[app]]
 name = "Internet radio"
 path = "radio-aarch64.fap.AppImage"
 url = "https://github.com/flipperdevices/flipctl-apps/releases/download/apps/radio-aarch64.fap.AppImage"
