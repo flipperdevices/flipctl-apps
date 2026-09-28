@@ -13,6 +13,13 @@ size = 14198
 sha256 = "6939196843fc740cefa101dae757fd1cebd7842efa33c8ef6bbf32d2b1232328"
 
 [[app]]
+name = "Browser"
+path = "browser-aarch64.fap.AppImage"
+url = "https://github.com/flipperdevices/flipctl-apps/releases/download/apps/browser-aarch64.fap.AppImage"
+size = 7064072
+sha256 = "cad3b033308f896c2985cb5159afa62a3a8ec653d89e9e52e7b40c3cd9a02412"
+
+[[app]]
 name = "Doom"
 path = "Games/doom-aarch64.fap.AppImage"
 url = "https://github.com/flipperdevices/flipctl-apps/releases/download/apps/doom-aarch64.fap.AppImage"
