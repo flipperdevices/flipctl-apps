@@ -54,8 +54,8 @@ name = "JavaScript Runtime"
 path = "Runtimes/js-runtime-aarch64.fap.AppImage"
 url = "https://github.com/flipperdevices/flipctl-apps/releases/download/apps/js-runtime-aarch64.fap.AppImage"
 provides = "js"
-size = 12843528
-sha256 = "5aa6564026c446ffee68aa712fea8b404a2470bc774ec12736d1c71515680c85"
+size = 12851720
+sha256 = "c570ea2ea0335210052030a43c4ee4801a5324f72d981e893d3ec5947ec8b758"
 
 [[app]]
 name = "Network LEDs"
@@ -78,8 +78,8 @@ name = "Python Runtime"
 path = "Runtimes/python-runtime-aarch64.fap.AppImage"
 url = "https://github.com/flipperdevices/flipctl-apps/releases/download/apps/python-runtime-aarch64.fap.AppImage"
 provides = "py"
-size = 31230472
-sha256 = "e702af1bbde3c44a33cde2b3d920a5249f6f620b043b54e5a982e28230f41721"
+size = 31246856
+sha256 = "7ecaaf4d65d5051b6cda9bc4001084b8c56d524f22b7e6d2efa234d236b15364"
 
 [[app]]
 name = "System Monitor"
