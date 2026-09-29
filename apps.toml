@@ -17,7 +17,7 @@ name = "Browser"
 path = "browser-aarch64.fap.AppImage"
 url = "https://github.com/flipperdevices/flipctl-apps/releases/download/apps/browser-aarch64.fap.AppImage"
 size = 7064072
-sha256 = "cad3b033308f896c2985cb5159afa62a3a8ec653d89e9e52e7b40c3cd9a02412"
+sha256 = "a5d8b82e319bafa41f57191a0ef360ceddef8cefb14cbc3d4b85fc9ac587978e"
 
 [[app]]
 name = "Doom"
