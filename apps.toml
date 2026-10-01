@@ -112,6 +112,14 @@ size = 4990
 sha256 = "12d1405fa73c34e9130704125f55640776297c2e060108e2c46ef5216d79edff"
 
 [[app]]
+name = "USB Analyzer"
+path = "Test Tools/usb-analyzer.fap.py"
+url = "https://github.com/flipperdevices/flipctl-apps/releases/download/apps/usb-analyzer.fap.py"
+runtime = "py"
+size = 50244
+sha256 = "42fce1660677d4f95128bf5a0c2e00b87f92d6269cbac42afbee3dd1cfe1abb7"
+
+[[app]]
 name = "Video Player"
 path = "Media/video-player-aarch64.fap.AppImage"
 url = "https://github.com/flipperdevices/flipctl-apps/releases/download/apps/video-player-aarch64.fap.AppImage"
