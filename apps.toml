@@ -82,6 +82,13 @@ size = 31246856
 sha256 = "7ecaaf4d65d5051b6cda9bc4001084b8c56d524f22b7e6d2efa234d236b15364"
 
 [[app]]
+name = "Speed test"
+path = "speedtest-aarch64.fap.AppImage"
+url = "https://github.com/flipperdevices/flipctl-apps/releases/download/apps/speedtest-aarch64.fap.AppImage"
+size = 19290632
+sha256 = "5b10af4a3c35c2264a6f4f7419273546983ad9a410cde8a10f05b038fdb33d5c"
+
+[[app]]
 name = "System Monitor"
 path = "sysmon-aarch64.fap.AppImage"
 url = "https://github.com/flipperdevices/flipctl-apps/releases/download/apps/sysmon-aarch64.fap.AppImage"
