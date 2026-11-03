@@ -130,8 +130,8 @@ name = "USB Analyzer"
 path = "Test Tools/usb-analyzer.fap.py"
 url = "https://github.com/flipperdevices/flipctl-apps/releases/download/apps/usb-analyzer.fap.py"
 runtime = "py"
-size = 54333
-sha256 = "b8db8e9881a8b0bc01ec1772c76237a4eceae9ceeb2ebdcb471ea87607c90530"
+size = 55016
+sha256 = "a5efa5999947ced367286d5ce7cfd207f3d3cbe4b90fb898d177b8d151e448b3"
 
 [[app]]
 name = "Video Player"
