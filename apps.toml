@@ -39,8 +39,8 @@ name = "Ethernet Tester"
 path = "Test Tools/ethernet-tester.fap.py"
 url = "https://github.com/flipperdevices/flipctl-apps/releases/download/apps/ethernet-tester.fap.py"
 runtime = "py"
-size = 25112
-sha256 = "e486de886fe6c7d3e36bdf84cb022e865d1d92c131a1cd74db9b87746b467302"
+size = 28296
+sha256 = "bccccc849c424cf53355bca9d26ff1768482ce2dd129e565a65994d87f5b6a63"
 
 [[app]]
 name = "Hello World"
