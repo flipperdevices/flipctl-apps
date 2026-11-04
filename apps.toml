@@ -144,5 +144,5 @@ sha256 = "a1fe2dcd2b446624a0dcf91a1d5c4e2665c3d4c9129584ea685ceccc08ae1577"
 name = "Voice recorder"
 path = "recorder-aarch64.fap.AppImage"
 url = "https://github.com/flipperdevices/flipctl-apps/releases/download/apps/recorder-aarch64.fap.AppImage"
-size = 7449096
-sha256 = "53a00878a8acde9cd50c4b149b2fbec6e33ca9b77e715f23d68914521173eb5b"
+size = 7453192
+sha256 = "0c7e1c7f26b9229247495a5e899b2cc269d1137aa5975016ed4db8218ca19ac3"
