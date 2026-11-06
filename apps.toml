@@ -20,6 +20,13 @@ size = 7064072
 sha256 = "a5d8b82e319bafa41f57191a0ef360ceddef8cefb14cbc3d4b85fc9ac587978e"
 
 [[app]]
+name = "Disk Benchmark"
+path = "Test Tools/disk-benchmark-aarch64.fap.AppImage"
+url = "https://github.com/flipperdevices/flipctl-apps/releases/download/apps/disk-benchmark-aarch64.fap.AppImage"
+size = 6875656
+sha256 = "54b472928347848f65c491b6be30bf048bbfadac5b9dcc1c0d2d47be9da87631"
+
+[[app]]
 name = "Doom"
 path = "Games/doom-aarch64.fap.AppImage"
 url = "https://github.com/flipperdevices/flipctl-apps/releases/download/apps/doom-aarch64.fap.AppImage"
