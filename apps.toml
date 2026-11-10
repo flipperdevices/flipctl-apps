@@ -50,6 +50,13 @@ size = 28296
 sha256 = "bccccc849c424cf53355bca9d26ff1768482ce2dd129e565a65994d87f5b6a63"
 
 [[app]]
+name = "FPV Receiver"
+path = "SDR/fpv-aarch64.fap.AppImage"
+url = "https://github.com/flipperdevices/flipctl-apps/releases/download/apps/fpv-aarch64.fap.AppImage"
+size = 7547400
+sha256 = "e9c6c6c4b6b839d2e598af5ffdec43c415694a3cfca564c0b16b015f1cd4f99a"
+
+[[app]]
 name = "Hello World"
 path = "hello-aarch64.fap.AppImage"
 url = "https://github.com/flipperdevices/flipctl-apps/releases/download/apps/hello-aarch64.fap.AppImage"
