@@ -9,66 +9,73 @@ name = "Breathing LED"
 path = "Test Tools/breathing-led.fap.py"
 url = "https://github.com/flipperdevices/flipctl-apps/releases/download/apps/breathing-led.fap.py"
 runtime = "py"
-size = 11226
-sha256 = "c857ade06b49a6db15490e05be74b8256c98be0d607cd06ae2736cc37edc10a2"
+size = 11428
+sha256 = "aaeb34247d9402081511c4d43f8a789d74abe90e8fa5f16e11556298bbfc2ad7"
 
 [[app]]
 name = "Browser"
-path = "browser-aarch64.fap.AppImage"
+path = "Network/browser-aarch64.fap.AppImage"
 url = "https://github.com/flipperdevices/flipctl-apps/releases/download/apps/browser-aarch64.fap.AppImage"
-size = 7064072
-sha256 = "a5d8b82e319bafa41f57191a0ef360ceddef8cefb14cbc3d4b85fc9ac587978e"
+size = 7084552
+sha256 = "30b0b9a93d44c35b9af695851f5d4162c728b66301133feed0d4d1a398c5be19"
 
 [[app]]
 name = "Disk Benchmark"
 path = "Test Tools/disk-benchmark-aarch64.fap.AppImage"
 url = "https://github.com/flipperdevices/flipctl-apps/releases/download/apps/disk-benchmark-aarch64.fap.AppImage"
-size = 6875656
-sha256 = "54b472928347848f65c491b6be30bf048bbfadac5b9dcc1c0d2d47be9da87631"
+size = 6904328
+sha256 = "b5aa0de1968edd8b7930ca3aa0f88bb0516d38d342055700a47df9c93f436249"
+
+[[app]]
+name = "Dither Test"
+path = "Test Tools/dither-test-aarch64.fap.AppImage"
+url = "https://github.com/flipperdevices/flipctl-apps/releases/download/apps/dither-test-aarch64.fap.AppImage"
+size = 965128
+sha256 = "79e3bf58b8578de25e02c64e7b181c497a31d0cd065d92a3de290cca39e4259f"
 
 [[app]]
 name = "Doom"
 path = "Games/doom-aarch64.fap.AppImage"
 url = "https://github.com/flipperdevices/flipctl-apps/releases/download/apps/doom-aarch64.fap.AppImage"
-size = 29563400
-sha256 = "17ba41e2552ee65c20b914dd01945da7c05899fafe121fc5572dd1e013e085af"
+size = 29567496
+sha256 = "8622acb23250fdcd125cf9d89f82eaffbfd7b77ca02b51ff76ce3f99bbc5997f"
 
 [[app]]
 name = "ETH LED"
 path = "Test Tools/eth-led.fap.py"
 url = "https://github.com/flipperdevices/flipctl-apps/releases/download/apps/eth-led.fap.py"
 runtime = "py"
-size = 12596
-sha256 = "a38dec6daaf9f4b51d8f7365ff952925b9d1b954f1d2abac22902f94e5798576"
+size = 12814
+sha256 = "5f214a848773a926ee54d5c668cc52652960545182b4109c644e26eeed91c466"
 
 [[app]]
 name = "Ethernet Tester"
 path = "Test Tools/ethernet-tester.fap.py"
 url = "https://github.com/flipperdevices/flipctl-apps/releases/download/apps/ethernet-tester.fap.py"
 runtime = "py"
-size = 28296
-sha256 = "bccccc849c424cf53355bca9d26ff1768482ce2dd129e565a65994d87f5b6a63"
+size = 28514
+sha256 = "03ea3d54ca820e7ffc8eceb5524ebc863e589e62dd7effdb7e00c6efb39e3803"
 
 [[app]]
 name = "FPV Receiver"
 path = "SDR/fpv-aarch64.fap.AppImage"
 url = "https://github.com/flipperdevices/flipctl-apps/releases/download/apps/fpv-aarch64.fap.AppImage"
-size = 7547400
-sha256 = "e9c6c6c4b6b839d2e598af5ffdec43c415694a3cfca564c0b16b015f1cd4f99a"
+size = 7580168
+sha256 = "ca3ab8ab5c9ca79d3f81a4c92c44ef1e8ce594faa980c694bcb9d69b0917f2d6"
 
 [[app]]
 name = "Hello World"
 path = "hello-aarch64.fap.AppImage"
 url = "https://github.com/flipperdevices/flipctl-apps/releases/download/apps/hello-aarch64.fap.AppImage"
-size = 6810120
-sha256 = "0db053a62014059b99ebdacaeb001dbde440bc0aaa18ab62a36dc2ad8849956b"
+size = 6838792
+sha256 = "1f5e0e4587c83c5aabe36c819704c9706f39f0b94924987aa031fda3de069e99"
 
 [[app]]
 name = "Internet radio"
-path = "radio-aarch64.fap.AppImage"
+path = "Media/radio-aarch64.fap.AppImage"
 url = "https://github.com/flipperdevices/flipctl-apps/releases/download/apps/radio-aarch64.fap.AppImage"
-size = 7526920
-sha256 = "e9ec71ac84c1b0649de7f78e647490b6343ca2747b5ef95e63b2ca24f1b8f98b"
+size = 7543304
+sha256 = "acfb2e8c68ad55ec44c23f9c01a7ed68459fddfd9a12b5a6a7beb564ad68c910"
 
 [[app]]
 name = "JavaScript Runtime"
@@ -76,23 +83,31 @@ path = "Runtimes/js-runtime-aarch64.fap.AppImage"
 url = "https://github.com/flipperdevices/flipctl-apps/releases/download/apps/js-runtime-aarch64.fap.AppImage"
 provides = "js"
 size = 12855816
-sha256 = "6447a6a5b2d33af36b332999bd8335bfba6f0f0de437843bdc3a354383fdbd14"
+sha256 = "483e85467f3e6dacf6911225f35db0d3542e69a6fcd61478bce16c176747e459"
+
+[[app]]
+name = "NAU8822 Bring-up"
+path = "Test Tools/nau8822-bringup.fap.py"
+url = "https://github.com/flipperdevices/flipctl-apps/releases/download/apps/nau8822-bringup.fap.py"
+runtime = "py"
+size = 3128
+sha256 = "08044ace900b29f45a91b21c01e966a37218ed684aa0b0bd7c7671c6a12bef51"
 
 [[app]]
 name = "Network LEDs"
 path = "Test Tools/network-leds.fap.py"
 url = "https://github.com/flipperdevices/flipctl-apps/releases/download/apps/network-leds.fap.py"
 runtime = "py"
-size = 5172
-sha256 = "edc3ac91c5f6c375084d352eb2b903ca25144cbf3dbe50f53f0331db88eb9cdc"
+size = 5338
+sha256 = "680ee987ab66fec2f14df0927e59c2ad8d39e3c4d72442251d1246c6c8e07f29"
 
 [[app]]
 name = "Ping"
-path = "ping.fap.py"
+path = "Network/ping.fap.py"
 url = "https://github.com/flipperdevices/flipctl-apps/releases/download/apps/ping.fap.py"
 runtime = "py"
-size = 7643
-sha256 = "7195f16334f3d153bc87bef1529094da3eeffbaa1d685d55adf7ddff42f6bf0b"
+size = 7813
+sha256 = "6abbfd94ea3dae8b851158edc6878fcdaff0803d23398bf85fb5b1d60f829bd0"
 
 [[app]]
 name = "Python Runtime"
@@ -100,63 +115,84 @@ path = "Runtimes/python-runtime-aarch64.fap.AppImage"
 url = "https://github.com/flipperdevices/flipctl-apps/releases/download/apps/python-runtime-aarch64.fap.AppImage"
 provides = "py"
 size = 31255048
-sha256 = "e1c753289ab24992492af131f3835c697217e38f762efb95ac08257c669ea259"
+sha256 = "ed0e763c693443cf002a4a5611a4f2fdf887af96ed9d0693c451c1c1efcf6e88"
 
 [[app]]
 name = "Speed test"
-path = "speedtest-aarch64.fap.AppImage"
+path = "Network/speedtest-aarch64.fap.AppImage"
 url = "https://github.com/flipperdevices/flipctl-apps/releases/download/apps/speedtest-aarch64.fap.AppImage"
-size = 19290632
-sha256 = "5b10af4a3c35c2264a6f4f7419273546983ad9a410cde8a10f05b038fdb33d5c"
+size = 19331592
+sha256 = "e62b5e4cd05ae009ee7cba4cedc88c98805ca0b44dbb4d28c4b116ff1a62bae8"
 
 [[app]]
 name = "System Monitor"
-path = "sysmon-aarch64.fap.AppImage"
+path = "System/sysmon-aarch64.fap.AppImage"
 url = "https://github.com/flipperdevices/flipctl-apps/releases/download/apps/sysmon-aarch64.fap.AppImage"
-size = 6834696
-sha256 = "e06a5a1ddbb85fb6d813ebac20ec0bb301a219ff894e9bf4c359b8fda28945fe"
+size = 6863368
+sha256 = "46243df24e73365c4170d40ed19892c2fb79981f1514ca6c47ee77e97cde87ba"
 
 [[app]]
 name = "Thermals"
-path = "Test Tools/thermals.fap.py"
+path = "System/thermals.fap.py"
 url = "https://github.com/flipperdevices/flipctl-apps/releases/download/apps/thermals.fap.py"
 runtime = "py"
-size = 4498
-sha256 = "c2b10bff259c0088f21cc7165d2a0b78f94d94577c5b68c0f2930efe8e490b21"
+size = 4716
+sha256 = "aeec8ac06fdaa9a1ea27d3967e3da5abe9e87721fd80a8fbfdc3458ef1901855"
 
 [[app]]
 name = "Tone Lab"
 path = "Test Tools/tone-lab-aarch64.fap.AppImage"
 url = "https://github.com/flipperdevices/flipctl-apps/releases/download/apps/tone-lab-aarch64.fap.AppImage"
-size = 6756872
-sha256 = "90b776167a99b04ef6b4b165af210d828491b7a2fad0f8728d5446ffb5134540"
+size = 6760968
+sha256 = "50b963c82d3aaa865d3fcc00de4005cb088d7ddc8f67fd2edd23788d377f96f4"
 
 [[app]]
 name = "Uptime"
-path = "uptime.fap.js"
+path = "System/uptime.fap.js"
 url = "https://github.com/flipperdevices/flipctl-apps/releases/download/apps/uptime.fap.js"
 runtime = "js"
-size = 3825
-sha256 = "7ac38fa7d67f54591b426c0d0a96b38c4d520b3b36d57f02e7037e9e6ad92fa5"
+size = 4040
+sha256 = "1ae9cfa4609778d185e92dd05bf3cc7a99fe6435c260c52a40f256da1ed334f0"
 
 [[app]]
 name = "USB Analyzer"
-path = "Test Tools/usb-analyzer.fap.py"
+path = "USB/usb-analyzer.fap.py"
 url = "https://github.com/flipperdevices/flipctl-apps/releases/download/apps/usb-analyzer.fap.py"
 runtime = "py"
-size = 55016
-sha256 = "a5efa5999947ced367286d5ce7cfd207f3d3cbe4b90fb898d177b8d151e448b3"
+size = 55226
+sha256 = "27e6e558724400262b615bded3267cbd6791269fe0beb4d9ce7ba8adbf0066e9"
+
+[[app]]
+name = "USB Audio Bridge"
+path = "USB/usb-audio-bridge-aarch64.fap.AppImage"
+url = "https://github.com/flipperdevices/flipctl-apps/releases/download/apps/usb-audio-bridge-aarch64.fap.AppImage"
+size = 7027208
+sha256 = "605f40acc75eb448e9cbbe02f5b205f12b277f5a6fc970392d95396f47d42cc8"
+
+[[app]]
+name = "USB BT Keyboard Touchpad"
+path = "USB/usb-keyboard-touchpad-aarch64.fap.AppImage"
+url = "https://github.com/flipperdevices/flipctl-apps/releases/download/apps/usb-keyboard-touchpad-aarch64.fap.AppImage"
+size = 6818312
+sha256 = "b66718f76a11b717e2b0906ea68582dec4316c5e93bb0d1c8f0f421f30580f5c"
+
+[[app]]
+name = "USB Device Bridge"
+path = "USB/usb-device-bridge-aarch64.fap.AppImage"
+url = "https://github.com/flipperdevices/flipctl-apps/releases/download/apps/usb-device-bridge-aarch64.fap.AppImage"
+size = 7625224
+sha256 = "023e092d75a78d6429d49ba58c8627e8de866abc46f6b78610c8a1d527a75285"
 
 [[app]]
 name = "Video Player"
 path = "Media/video-player-aarch64.fap.AppImage"
 url = "https://github.com/flipperdevices/flipctl-apps/releases/download/apps/video-player-aarch64.fap.AppImage"
-size = 956936
-sha256 = "a1fe2dcd2b446624a0dcf91a1d5c4e2665c3d4c9129584ea685ceccc08ae1577"
+size = 961032
+sha256 = "8dde32ba4b90d7dce554c338f0921a8a50b141c41c2c56eb8b580bc53292bf0e"
 
 [[app]]
 name = "Voice recorder"
-path = "recorder-aarch64.fap.AppImage"
+path = "Media/recorder-aarch64.fap.AppImage"
 url = "https://github.com/flipperdevices/flipctl-apps/releases/download/apps/recorder-aarch64.fap.AppImage"
-size = 7453192
-sha256 = "abbfe0201096a6cd21bd3ba28bd80de4cccd6cfe2b6d182b241bd05401f9905a"
+size = 7481864
+sha256 = "66096f8b4775ba989dca940cff70227ae413bca5b39bb3cfb826737517ecc342"
