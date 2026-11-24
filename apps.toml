@@ -83,7 +83,7 @@ path = "Runtimes/js-runtime-aarch64.fap.AppImage"
 url = "https://github.com/flipperdevices/flipctl-apps/releases/download/apps/js-runtime-aarch64.fap.AppImage"
 provides = "js"
 size = 12864008
-sha256 = "3786cccf753cc9fd61bf91c7cdd849b8e8cd1d8f79581b2f17ad84c87276f63e"
+sha256 = "ff82b90204c1c0f3373b0fc71e87be52af83d145e732546ec9ec47ed90b878d0"
 
 [[app]]
 name = "NAU8822 Bring-up"
@@ -115,7 +115,7 @@ path = "Runtimes/python-runtime-aarch64.fap.AppImage"
 url = "https://github.com/flipperdevices/flipctl-apps/releases/download/apps/python-runtime-aarch64.fap.AppImage"
 provides = "py"
 size = 31255048
-sha256 = "a78134b03231b2d30e8ff2cf04c52e9ab21f305ea4bb560c20abf5876aac65c8"
+sha256 = "0ae388565a282d71f7cc1db1c0272f8c1d5302bd3cea1a0e82fe4b5aec82170a"
 
 [[app]]
 name = "Speed test"
