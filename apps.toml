@@ -45,8 +45,8 @@ name = "ETH LED"
 path = "Test Tools/eth-led.fap.py"
 url = "https://github.com/flipperdevices/flipctl-apps/releases/download/apps/eth-led.fap.py"
 runtime = "py"
-size = 12814
-sha256 = "5f214a848773a926ee54d5c668cc52652960545182b4109c644e26eeed91c466"
+size = 13180
+sha256 = "32fcff5798dcb54184c8b3f56aedcbc95324baff46f4c29a3cc04b4d19ce1106"
 
 [[app]]
 name = "Ethernet Tester"
