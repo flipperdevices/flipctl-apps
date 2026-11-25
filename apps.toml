@@ -118,6 +118,13 @@ size = 31255048
 sha256 = "0ae388565a282d71f7cc1db1c0272f8c1d5302bd3cea1a0e82fe4b5aec82170a"
 
 [[app]]
+name = "Screen Recorder"
+path = "Media/screen-recorder-aarch64.fap.AppImage"
+url = "https://github.com/flipperdevices/flipctl-apps/releases/download/apps/screen-recorder-aarch64.fap.AppImage"
+size = 7264776
+sha256 = "cca2e166c179bdeadb77cb4011a9335e2d0ed2c2eaac958b918d23c043a27b4a"
+
+[[app]]
 name = "Speed test"
 path = "Network/speedtest-aarch64.fap.AppImage"
 url = "https://github.com/flipperdevices/flipctl-apps/releases/download/apps/speedtest-aarch64.fap.AppImage"
@@ -196,3 +203,10 @@ path = "Media/recorder-aarch64.fap.AppImage"
 url = "https://github.com/flipperdevices/flipctl-apps/releases/download/apps/recorder-aarch64.fap.AppImage"
 size = 7490056
 sha256 = "22c2b6f2b7a0e579541f6bcaa863c20de0f436e3f611a54f357b6e7c59c385d4"
+
+[[app]]
+name = "Wi-Fi Scanner"
+path = "Network/wifi-scanner-aarch64.fap.AppImage"
+url = "https://github.com/flipperdevices/flipctl-apps/releases/download/apps/wifi-scanner-aarch64.fap.AppImage"
+size = 7113224
+sha256 = "ad083cb1c197577e91b5cc69fc04ed4e185e00ebe01575ca3ffb64b8a7630131"
