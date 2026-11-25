@@ -208,5 +208,5 @@ sha256 = "22c2b6f2b7a0e579541f6bcaa863c20de0f436e3f611a54f357b6e7c59c385d4"
 name = "Wi-Fi Scanner"
 path = "Network/wifi-scanner-aarch64.fap.AppImage"
 url = "https://github.com/flipperdevices/flipctl-apps/releases/download/apps/wifi-scanner-aarch64.fap.AppImage"
-size = 7113224
-sha256 = "ad083cb1c197577e91b5cc69fc04ed4e185e00ebe01575ca3ffb64b8a7630131"
+size = 7461384
+sha256 = "d87401ae87e65a0323948368f63f677a837b3e00d65e91c54b38fdeee0765006"
