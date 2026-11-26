@@ -166,8 +166,8 @@ name = "USB Analyzer"
 path = "USB/usb-analyzer.fap.py"
 url = "https://github.com/flipperdevices/flipctl-apps/releases/download/apps/usb-analyzer.fap.py"
 runtime = "py"
-size = 55226
-sha256 = "27e6e558724400262b615bded3267cbd6791269fe0beb4d9ce7ba8adbf0066e9"
+size = 54201
+sha256 = "bb8c20188c3156a32c1970629f277dda28a646440cdd347c5bfd48d58165c1c0"
 
 [[app]]
 name = "USB Audio Bridge"
